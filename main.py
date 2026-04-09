@@ -1,1 +1,1 @@
-print("hello teju maam")
+print("sridevi bhoodevi venkateshwara")
